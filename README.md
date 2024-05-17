@@ -1,3 +1,3 @@
 # JuegosEducativos
 
-####Bienvenidos a nuestro repositorio
+#Bienvenidos a nuestro repositorio
