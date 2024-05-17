@@ -1,7 +1,8 @@
 <h1 align="center">Bievenidos a Juego Educativos
   <br>
-<a href="https://twitter.com/abhisheknaiidu" ><img src="https://i.postimg.cc/rpNwWnWx/logo-club-programacion-logo.png?style=social" /> </a>
-
+<div align="center">
+  <a href="https://www.unicomfacauca.edu.co/" ><img src="https://i.postimg.cc/rpNwWnWx/logo-club-programacion-logo.png?style=social" /> </a>
+</div>
 ### Contents:
   - [Categories](#categories)
       - [GitHub Actions 🤖](#github-actions-)
