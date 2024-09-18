@@ -43,4 +43,6 @@ Los juegos educativos se desarrollarán utilizando lenguajes de programación se
 
 ## ✉️ **Contacto** ✉️
 
-Para cualquier consulta o sugerencia, puedes contactar al equipo del proyecto en [correo@ejemplo.com](mailto:correo@ejemplo.com).
+Para cualquier consulta o sugerencia, puedes contactar al equipo del proyecto en:
+[isabelescobar@unicomfacauca.edu.co](mailto:isabelescobar@unicomfacauca.edu.co).
+[camilobenitez@unicomfacauca.edu.co](mailto:camilobenitez@unicomfacauca.edu.co).
