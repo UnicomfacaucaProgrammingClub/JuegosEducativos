@@ -25,73 +25,9 @@ Los juegos educativos se desarrollarán utilizando lenguajes de programación se
 
 ## Lenguajes Recomendados
 
-- HTML
-- CSS
-- JavaScript
-- Java
-- C#
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) **HTML**
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) **CSS**
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) **JavaScript**
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) **Java**
+- ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) **C#**
 
-## Instalación
-
-1. Clona el repositorio:
-    ```bash
-    git clone https://github.com/usuario/juegos-educativos.git
-    cd juegos-educativos
-    ```
-
-2. Instala las dependencias necesarias (si aplica):
-    ```bash
-    npm install
-    ```
-
-3. Inicia el proyecto:
-    ```bash
-    npm start
-    ```
-
-## Uso
-
-Para iniciar el juego educativo, simplemente abre el archivo `index.html` en tu navegador o ejecuta el comando de inicio en tu entorno de desarrollo.
-
-## Contribución
-
-Si deseas contribuir al proyecto, sigue los siguientes pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una nueva rama: `git checkout -b mi-nueva-funcionalidad`.
-3. Realiza tus cambios y haz un commit: `git commit -m 'Añadir nueva funcionalidad'`.
-4. Sube tus cambios: `git push origin mi-nueva-funcionalidad`.
-5. Abre un pull request para revisar los cambios.
-
-## Licencia
-
-Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
-## Contacto
-
-Para cualquier consulta o sugerencia, puedes contactar al equipo del proyecto en [correo@ejemplo.com](mailto:correo@ejemplo.com).
-
-### Contents:
-  - [Categories](#categories)
-      - [GitHub Actions 🤖](#github-actions-)
-      - Idea del Proyecto
-      - Objetivo General
-      - Objetivos Especificos
-      - Alcance
-      - Lenguajes de programacion recomendados
-      - [Idea del Proyecto 🚀](#game-mode-)
-      - [Game Mode 🚀](#game-mode-)
-      - [Code Mode 👨🏽‍💻](#code-mode-)
-      - [Dynamic Realtime 💫](#dynamic-realtime-)
-      - [A Little Bit of Everything 😃](#a-little-bit-of-everything-)
-      - [Descriptive 🗒](#descriptive-)
-      - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
-      - [Typing.. Mode 🎰](#typing-mode-)
-      - [Anime 👾](#anime-)
-      - [Minimalistic ✨](#minimalistic-)
-      - [GIFS 👻](#gifs-)
-      - [Just Images 🎭](#just-images-)
-      - [Badges 🎫](#badges-)
-      - [Fancy Fonts 🖋](#fancy-fonts-)
-      - [Icons 🎯](#icons-)
-      - [Retro 😎](#retro-)
