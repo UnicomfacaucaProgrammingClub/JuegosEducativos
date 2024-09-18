@@ -7,6 +7,11 @@
 ### Contents:
   - [Categories](#categories)
       - [GitHub Actions 🤖](#github-actions-)
+      - Idea del Proyecto
+      - Objetivo General
+      - Objetivos Especificos
+      - Alcance
+      - Lenguajes de programacion recomendados
       - [Game Mode 🚀](#game-mode-)
       - [Code Mode 👨🏽‍💻](#code-mode-)
       - [Dynamic Realtime 💫](#dynamic-realtime-)
